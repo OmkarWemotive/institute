@@ -1,4 +1,4 @@
-require("./db_config/db")
+// require("./db_config/db")
 const path=require('path')
 const hbs=require('hbs');
 const express = require('express')
